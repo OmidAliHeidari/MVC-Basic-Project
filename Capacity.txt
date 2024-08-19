@@ -1,0 +1,11 @@
+
+2 Disk Pools (0 selected) 
+ 
+
+
+
+
+Name         Storage Server Name   Server Type   Number of Volumes   Number of Media Servers   Used Capacity   Available Space   Raw Size    Usable Size   Low Watermark (%)   High Watermark (%)   % Full   Comment   Max I/O streams   Configured for snapshots   Primary   Replication   WORM Capable
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+mediaselin   mediaselin            PureDisk      1                   1                         37.41 GB        153.07 GB         190.48 GB   190.48 GB     80                  98                   19.64              Unlimited         No                         --        None          No
+selindisk    selinmaster           PureDisk      1                   1                         438.34 MB       286.57 GB         287.0 GB    287.0 GB      80                  98                   0.15               Unlimited         No                         --        None          No
